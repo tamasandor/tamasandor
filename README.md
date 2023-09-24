@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/andor-tamás-18467021b/ "><img width="32px" alt="Linkedin" title="Connect with me on Linkedin" src="https://i.imgur.com/QtuMZjB.png"/></a>
+  <a href="https://www.linkedin.com/in/andor-tamás-18467021b/"><img width="32px" alt="Linkedin" title="Connect with me on Linkedin" src="https://i.imgur.com/QtuMZjB.png"/></a>
 </p>
 
 <summary><h2>Computer languages</h2></summary>
