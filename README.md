@@ -33,7 +33,7 @@
 
   🔧 I love taking apart and fixing electronics, giving them a second chance and helping reduce electronic waste.
 
-  🚗 My journey began with learning car repair in school, but it evolved when I discovered CNC mechanics. Now, I'm on a path to mastering software engineering at 42 Wolfsburg.
+  🚗 My journey began with learning car repair in school, but it evolved when I discovered CNC mechanics. Now, I'm on a path to mastering software engineering at <a href="https://42wolfsburg.de/who-are-we/">42Wolfsburg</a>.
 
   🌐 I'm also an avid language learner. I speak fluently one of the hardest language in the world. [🇭🇺] And continuesly improving my vocabulary/knowledge in other languages. [🇺🇸, 🇩🇪, 🇷🇴, 🇷🇺, 🇦🇱]
 
