@@ -35,7 +35,7 @@
 
   🚗 My journey began with learning car repair in school, but it evolved when I discovered CNC mechanics. Now, I'm on a path to mastering software engineering at <a href="https://42wolfsburg.de/who-are-we/">42Wolfsburg</a>.
 
-  🌐 I'm also an avid language learner. I speak fluently one of the hardest language in the world. [🇭🇺] And continuesly improving my vocabulary/knowledge in other languages. [🇺🇸, 🇩🇪, 🇷🇴, 🇷🇺, 🇦🇱]
+  🌐 I'm also an avid language learner. I speak fluently one of the hardest language in the world. [🇭🇺] And continuesly improving my vocabulary/knowledge in other languages. [🇺🇸, 🇩🇪]
 
   ♻️ Beyond my tech interests, I'm passionate about sustainability and believe in the power of repairs to save our planet from unnecessary waste.
 </p>
