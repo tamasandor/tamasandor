@@ -19,14 +19,6 @@
     <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-<summary><h2>Tools</h2></summary>
-<p>
-    <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://www.vim.org/"><img alt="vim the editor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/25px-Vimlogo.svg.png"></a>
-</p>
-
 <summary><h2>More about me:</h2></summary>
 <p>
   👋 Hey there! I'm Andor, a passionate tinkerer and problem solver with a relentless curiosity for how things work. 
