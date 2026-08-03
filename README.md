@@ -27,9 +27,3 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
 </p>
-
-### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tamasandor&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamasandor&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
